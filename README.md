@@ -1,6 +1,6 @@
 # app_filmes
 
-A new Flutter project.
+Projeto construído na Dart Week 4ª edição com o professor Rodrigo Rahman.
 
 ## Getting Started
 
