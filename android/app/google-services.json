@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244698442670",
+    "project_id": "dartweekacademiaflutter",
+    "storage_bucket": "dartweekacademiaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244698442670:android:378763c714de23bd55b63f",
+        "android_client_info": {
+          "package_name": "com.example.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244698442670-t0akn76636meg5njk0mt8ej0u7t6a0t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_filmes",
+            "certificate_hash": "07e3d0b3b4fb737060165b2c5bf824645e229aa6"
+          }
+        },
+        {
+          "client_id": "244698442670-tg35bufl76ie0j09jecnuhos1a6gbktv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBET7ZOBC7F56GbdXTng0hC2KC27hhCaMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244698442670-tg35bufl76ie0j09jecnuhos1a6gbktv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
